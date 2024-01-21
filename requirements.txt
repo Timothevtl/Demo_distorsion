@@ -6,3 +6,5 @@ textblob
 scikit-learn
 requests
 tensorflow
+skimage
+matplotlib
