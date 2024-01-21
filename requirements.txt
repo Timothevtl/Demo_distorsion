@@ -1,4 +1,4 @@
-opencv-python-headless==4.x.x
+opencv-python-headless>=4
 streamlit
 nltk
 altair<5
